@@ -18,6 +18,7 @@ Thank you for considering contributing! Here’s how you can get started:
 ## 🚀 Submitting Changes
 
 1. **Fork the repository** and clone it locally:
+
    ```bash
    git clone https://github.com/your-username/your-forked-repo.git
    cd your-forked-repo
