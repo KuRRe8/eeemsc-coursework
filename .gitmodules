@@ -1,3 +1,6 @@
-[submodule "EE6483_Artificial_Intelligence_and_Data_Mining/proj"]
-	path = EE6483_Artificial_Intelligence_and_Data_Mining/proj
+[submodule "EE6483_Artificial_Intelligence_and_Data_Mining/proj-NLP"]
+	path = EE6483_Artificial_Intelligence_and_Data_Mining/proj-NLP
 	url = https://github.com/KuRRe8/Bi-Senti-EE6483.git
+[submodule "EE6483_Artificial_Intelligence_and_Data_Mining/proj-CV"]
+	path = EE6483_Artificial_Intelligence_and_Data_Mining/proj-CV
+	url = https://github.com/KuRRe8/Img-Classi-EE6483.git
